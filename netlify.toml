@@ -1,0 +1,21 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 
+
+[[headers]]
+  for = "/data/programs/*"
+  [headers.values]
+    Content-Type = "application/json"
+    Access-Control-Allow-Origin = "*"
+
+# Prevent SPA routing from catching JSON file requests
+[[redirects]]
+  from = "/data/programs/*"
+  to = "/data/programs/:splat"
+  status = 200
+  force = true 
