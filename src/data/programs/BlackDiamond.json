@@ -1,0 +1,527 @@
+[
+  {
+    "id": "blackdiamond-1",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "History Above the Mines ",
+    "city": "Antioch",
+    "grade": "3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "HSS-3.1, HSS-3.3, 4-ESS3-1, 4-ESS1-1, HSS-4.4, 5-PS1-3, 5-ESS3-1 ",
+    "fee": "no",
+    "duration": "1-2 classes: 1.5 hours                                  \r\r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher activity – cemetery or Victorian era games)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:10-1:6",
+    "description": "Learn how an ancient world shaped the local landscape and attracted both coal and sand miners to this area. Discover what life was like for immigrant miners and their thriving communities while exploring what pieces of evidence remain. This program takes place entirely above ground.   ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=In-Person-%20History%20Above%20the%20Mines",
+    "metadata": {
+      "title": "History Above the Mines  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Learn how an ancient world shaped the local landscape and attracted both coal and sand miners to this area. Discover what life was like for immigrant miners and their thriving communities while exploring what pieces of evidence remain. This program takes place entirely above ground.   ",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "History Above the Mines  | Black Diamond Mines Visitor Center",
+      "og_description": "Learn how an ancient world shaped the local landscape and attracted both coal and sand miners to this area. Discover what life was like for immigrant miners and their thriving communities while explor...",
+      "twitter_title": "History Above the Mines  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Learn how an ancient world shaped the local landscape and attracted both coal and sand miners to this area. Discover what life was like for immigrant miners and their thriving communities while explor..."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-1",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-2",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Black Diamond Geology ",
+    "city": "Antioch",
+    "grade": "1, 2, 3",
+    "learning_standards": "HSS-1.2, 2-ESS1-1, 2-PS1-1,3-LS4-1, HSS-3.1, HSS-3.5  ",
+    "fee": "no",
+    "duration": "1-2 classes: 1.5 hours                                  \r\r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher geology activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:10-1:6",
+    "description": "Dive into the rocking world of geology as we walk though time investigating layers of sedimentary rock left by an ancient sea! Discover different rock types as we search through waste rock piles and find out about fabulous fossils of the East Bay. ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=In-Person-%20Black%20Diamond%20Geology",
+    "metadata": {
+      "title": "Black Diamond Geology  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Dive into the rocking world of geology as we walk though time investigating layers of sedimentary rock left by an ancient sea! Discover different rock types as we search through waste rock piles and find out about fabulous fossils of the East Bay. ",
+      "keywords": [
+        "1",
+        "2",
+        "3"
+      ],
+      "og_title": "Black Diamond Geology  | Black Diamond Mines Visitor Center",
+      "og_description": "Dive into the rocking world of geology as we walk though time investigating layers of sedimentary rock left by an ancient sea! Discover different rock types as we search through waste rock piles and f...",
+      "twitter_title": "Black Diamond Geology  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Dive into the rocking world of geology as we walk though time investigating layers of sedimentary rock left by an ancient sea! Discover different rock types as we search through waste rock piles and f..."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-2",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-2",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-3",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Black Diamond Biodiversity ",
+    "city": "Antioch",
+    "grade": "4, 5",
+    "learning_standards": "4-LS1, 5-LS1, 5-LS2, 5-ESS3 ",
+    "fee": "no",
+    "duration": "1-2 classes: 1.5 hours                                  \r\r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher habitat activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:10-1:6",
+    "description": "Hike through the diverse chaparral, oak woodland, and grassland ecosystems of Black Diamond on a nature walk that emphasizes the area's plants and animals and how they are extraordinarily adapted to this unique environment.  ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=In-Person-%20Black%20Diamond%20Biodiversity",
+    "metadata": {
+      "title": "Black Diamond Biodiversity  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Hike through the diverse chaparral, oak woodland, and grassland ecosystems of Black Diamond on a nature walk that emphasizes the area's plants and animals and how they are extraordinarily adapted to this unique environment.  ",
+      "keywords": [
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Black Diamond Biodiversity  | Black Diamond Mines Visitor Center",
+      "og_description": "Hike through the diverse chaparral, oak woodland, and grassland ecosystems of Black Diamond on a nature walk that emphasizes the area's plants and animals and how they are extraordinarily adapted to t...",
+      "twitter_title": "Black Diamond Biodiversity  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Hike through the diverse chaparral, oak woodland, and grassland ecosystems of Black Diamond on a nature walk that emphasizes the area's plants and animals and how they are extraordinarily adapted to t..."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-3",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-3",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-4",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Five Senses Exploration ",
+    "city": "Antioch",
+    "grade": "Pre-K, K",
+    "learning_standards": "K-LS1-1, K-ESS3-3 ",
+    "fee": "no",
+    "duration": "1-2 classes: 1 hours                                      \r\r\n3-4 classes: 2.5 hours (includes time for lunch and self-guided teacher 5 senses activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:8-1:4",
+    "description": "Senses can be great tools to help us connect with nature as well as keep us safe. Come on a sensory exploration to learn about the park, native wildlife, and yourselves!  ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=In-Person-%20Five%20Senses%20Exploration",
+    "metadata": {
+      "title": "Five Senses Exploration  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Senses can be great tools to help us connect with nature as well as keep us safe. Come on a sensory exploration to learn about the park, native wildlife, and yourselves!  ",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2"
+      ],
+      "og_title": "Five Senses Exploration  | Black Diamond Mines Visitor Center",
+      "og_description": "Senses can be great tools to help us connect with nature as well as keep us safe. Come on a sensory exploration to learn about the park, native wildlife, and yourselves!  ",
+      "twitter_title": "Five Senses Exploration  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Senses can be great tools to help us connect with nature as well as keep us safe. Come on a sensory exploration to learn about the park, native wildlife, and yourselves!  "
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-4",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-4",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-5",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Mine Tour - Virtual ",
+    "city": "District-wide",
+    "grade": "3, 4",
+    "learning_standards": "HSS-3.1 , HSS-3.3 4-ESS3-1, 4-ESS1-1, HSS-4.4 ",
+    "fee": "no",
+    "duration": "45 minutes",
+    "format": "Virtual",
+    "class_max": 1,
+    "max_students": "No limit",
+    "max_chaperones": "No limit",
+    "description": "Dive into the depths to discover the history hidden underground. Join a Naturalist on this virtual tour to learn about coal and sand mining in the Bay Area. ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=Virtual-%20Mine%20Tour",
+    "metadata": {
+      "title": "Mine Tour - Virtual  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Dive into the depths to discover the history hidden underground. Join a Naturalist on this virtual tour to learn about coal and sand mining in the Bay Area. ",
+      "keywords": [
+        "3",
+        "4"
+      ],
+      "og_title": "Mine Tour - Virtual  | Black Diamond Mines Visitor Center",
+      "og_description": "Dive into the depths to discover the history hidden underground. Join a Naturalist on this virtual tour to learn about coal and sand mining in the Bay Area. ",
+      "twitter_title": "Mine Tour - Virtual  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Dive into the depths to discover the history hidden underground. Join a Naturalist on this virtual tour to learn about coal and sand mining in the Bay Area. "
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-5",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-5",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-6",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Animals and their Habitats - Virtual ",
+    "city": "District-wide",
+    "grade": "K, 1, 2",
+    "learning_standards": "K-LS1-1,  K-ESS3-1, K-ESS3-3,2-LS4-1 ",
+    "fee": "no",
+    "duration": "45 minutes",
+    "format": "Virtual",
+    "class_max": 1,
+    "max_students": "No limit",
+    "max_chaperones": "No limit",
+    "description": "Explore how the animals of Black Diamond Mines find everything they need to live, grow, and thrive. Learn about the different habitats that make this park so special and what adaptations the local animals use to meet their basic needs.  ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=Virtual-%20Animals%20and%20their%20Habitats",
+    "metadata": {
+      "title": "Animals and their Habitats - Virtual  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Explore how the animals of Black Diamond Mines find everything they need to live, grow, and thrive. Learn about the different habitats that make this park so special and what adaptations the local animals use to meet their basic needs.  ",
+      "keywords": [
+        "K",
+        "1",
+        "2"
+      ],
+      "og_title": "Animals and their Habitats - Virtual  | Black Diamond Mines Visitor Center",
+      "og_description": "Explore how the animals of Black Diamond Mines find everything they need to live, grow, and thrive. Learn about the different habitats that make this park so special and what adaptations the local ani...",
+      "twitter_title": "Animals and their Habitats - Virtual  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Explore how the animals of Black Diamond Mines find everything they need to live, grow, and thrive. Learn about the different habitats that make this park so special and what adaptations the local ani..."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-6",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-6",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-6",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-7",
+    "visitor_center": "Black Diamond",
+    "program_host": "Radke Martinez Regional Shoreline",
+    "program_name": "Marsh Exploration",
+    "city": "Martinez",
+    "grade": "K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "K-ESS3-1, K-ESS3-3, K-LS1-1, 1-LS1-1, 2-LS4-1, 3-LS4-3, 3-LS4-4, 3-ESS3-1, 4-LS1-1,5-LS2-1, 5-PS3-1, 5-ESS3-1,MS-LS1-5, MS-ESS3-3, MS-LS2-4, MS-LS4-4, MS-ESS1-1, MS-PS4-2 HS-LS2-6, HS-LS2-7, HS-LS4-2, HS-LS4-4, HS-LS4-5, HS-ESS3-1, HS-ESS3-4",
+    "fee": "no",
+    "duration": "1-2 classes: 1.5 hours                                  \r\r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:8-1:4",
+    "description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Radke%20Martinez%20Regional%20Shoreline&Program_Request_Radke_Choice_Radke_Choice=In-Person-%20Marsh%20Exploration,%20Martinez%20or%20Bay%20Point",
+    "metadata": {
+      "title": "Marsh Exploration | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+      "keywords": [
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Marsh Exploration | Black Diamond Mines Visitor Center",
+      "og_description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+      "twitter_title": "Marsh Exploration | Black Diamond Mines Visitor Center",
+      "twitter_description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-7",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "blackdiamond-7",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-8",
+    "visitor_center": "Black Diamond",
+    "program_host": "Thurgood Marshall Regional Park",
+    "program_name": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50",
+    "city": "Concord",
+    "grade": "9, 10, 11, 12",
+    "learning_standards": "HSS-11.7, HSS-11.10. (Open for 9-12th grades; best suited for 11th grade US History Classes for alignment with standards.)",
+    "fee": "no",
+    "duration": "2-3 classes: 3 hours                                      \r\r\n(2 class min, 3 class max)",
+    "format": "In Person",
+    "class_max": 3,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:35-1:10",
+    "description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. This program explores how these events led to the eventual desegregation of the U.S. military – thus shaping our region, state, and beyond. Students will learn about the Port Chicago Disaster, Port Chicago 50, and various key figures.",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Thurgood%20Marshall%20Regional%20Park%20-%20Home%20of%20the%20Port%20Chicago%2050",
+    "limited_availability": "Available only on Tuesdays and Thursdays; Closed June-September for heat safety",
+    "metadata": {
+      "title": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50 | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. This program explores how these events led to the eventual desegregation of the U.S. military – thus shaping our region, state, and beyond. Students will learn about the Port Chicago Disaster, Port Chicago 50, and various key figures.",
+      "keywords": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50 | Black Diamond Mines Visitor Center",
+      "og_description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. This program explores how these events led to the eventual desegregation of the U.S. military – thus shaping our region, state, and beyond.",
+      "twitter_title": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50 | Black Diamond Mines Visitor Center",
+      "twitter_description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. This program explores how these events led to the eventual desegregation of the U.S. military – thus shaping our region, state, and beyond."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-8",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "blackdiamond-8",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-9",
+    "visitor_center": "Black Diamond",
+    "program_host": "Thurgood Marshall Regional Park",
+    "program_name": "Story of the Port Chicago 50 - Virtual ",
+    "city": "Concord",
+    "grade": "9, 10, 11, 12",
+    "learning_standards": "HSS-11.7, HSS-11.10. (Open for 9-12th grades; best suited for 11th grade US History Classes for alignment with standards.)",
+    "fee": "no",
+    "duration": "45 minutes",
+    "format": "Virtual",
+    "class_max": 3,
+    "max_students": "Up to 3 classes per day",
+    "max_chaperones": "Not applicable, 1 teacher needs to be present",
+    "description": "In this virtual program, learn the story of the Port Chicago Disaster and Port Chicago 50 – a story of social injustice, resistance, and bravery that occurred during World War II in Contra Costa County and that led to the eventual desegregation of the U.S. military. 1 class at a time.",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Thurgood%20Marshall%20Regional%20Park%20-%20Home%20of%20the%20Port%20Chicago%2050",
+    "metadata": {
+      "title": "Story of the Port Chicago 50 | Thurgood Marshall Regional Park | East Bay Regional Park District",
+      "description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. In this virtual program, learn the story of the Port Chicago Disaster and Port Chicago 50 – a story of social injustice, resistance, and bravery that occurred during World War II in Contra Costa County and that led to the eventual desegregation of the U.S. military.",
+      "keywords": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50 | Black Diamond Mines Visitor Center",
+      "og_description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. In this virtual program, learn the story of the Port Chicago Disaster and Port Chicago 50 – a story of social injustice, resistance, and bravery that occurred during World War II in Contra Costa County and that led to the eventual desegregation of the U.S. military.",
+      "twitter_title": "Uncovering Local History: Stories of Social Justice and the Port Chicago 50 | Black Diamond Mines Visitor Center",
+      "twitter_description": "Thurgood Marshall Regional Park - Home of the Port Chicago 50 honors World War II stories of civil rights and social injustice that took place on this land. In this virtual program, learn the story of the Port Chicago Disaster and Port Chicago 50 – a story of social injustice, resistance, and bravery that occurred during World War II in Contra Costa County and that led to the eventual desegregation of the U.S. military."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-9",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "blackdiamond-9",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ]
+  },
+  {
+    "id": "blackdiamond-10",
+    "visitor_center": "Black Diamond",
+    "program_host": "Black Diamond Mines Visitor Center",
+    "program_name": "Coal Mining History Tour",
+    "city": "Antioch",
+    "grade": "3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "3-LS4-3, 3-LS4-4, 2-LS4-1, MS-LS2-3, MS-LS2-4, MS-ESS3-3, MS-ESS3-4, HS-LS2-4, HS-LS2-2, HS-LS2-7, HS-LS4-6, HS-ESS3-1, HS-ESS3-3, HS-ESS3-6",
+    "fee": "yes",
+    "duration": "1-2 classes: 1.5 hours                                  \r\r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:10-1:6",
+    "description": "Hike through the townsite of Somersville to learn of the immigrants who carved a life from these hills. Then continue underground into the Coal Mine Experience, a replica 19th century coal mine, to discover how and why coal was critical to the young state of California.\n*Adaptable for grades 3-5, 6-8, or 9-12 with associated standards ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Black%20Diamond%20Mines%20Visitor%20Center&Program_Request_Black_Diamond_1st_Choice_Black_Diamond_1st_Choice=In-Person-%20Coal%20Mining%20History%20Tour%20(fee)",
+    "metadata": {
+      "title": "Coal Mining History Tour  | Black Diamond Mines Visitor Center | East Bay Regional Park District",
+      "description": "Hike through the townsite of Somersville to learn of the immigrants who carved a life from these hills. Then continue underground into the Coal Mine Experience, a replica 19th century coal mine, to discover how and why coal was critical to the young state of California.",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Coal Mining History Tour  | Black Diamond Mines Visitor Center",
+      "og_description": "Hike through the townsite of Somersville to learn of the immigrants who carved a life from these hills. Then continue underground into the Coal Mine Experience, a replica 19th century coal mine, to discover how and why coal was critical to the young state of California.",
+      "twitter_title": "Coal Mining History Tour  | Black Diamond Mines Visitor Center",
+      "twitter_description": "Hike through the townsite of Somersville to learn of the immigrants who carved a life from these hills. Then continue underground into the Coal Mine Experience, a replica 19th century coal mine, to discover how and why coal was critical to the young state of California."
+    },
+    "application_status": [
+      {
+        "id": "blackdiamond-10",
+        "season": "Fall 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-10",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "blackdiamond-10",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  }
+]

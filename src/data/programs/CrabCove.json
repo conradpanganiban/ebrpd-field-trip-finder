@@ -1,0 +1,386 @@
+[
+  {
+    "id": "crabcove-1",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Wildlife of the Bay Area",
+    "city": "District-wide",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "fee": "No",
+    "duration": "30 - 45 minutes",
+    "format": "Virtual",
+    "class_size": 30,
+    "class_max": 3,
+    "max_students": 90,
+    "description": "Discover secrets of Bay Area wildlife that you can find in our parks and in your own backyard. • Birds of Prey • Urban & Park Wildlife • Olympians of the East Bay • SF Bay Wildlife • Endangered Species • Marine Mammals • And MORE!",
+    "emoji": "🖥️🦅🐳",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=Virtual: Wildlife%20of%20the%20Bay%20Area",
+    "application_status": [
+      {
+        "id": "crabcove-1",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Wildlife of the Bay Area | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Discover secrets of Bay Area wildlife that you can find in our parks and in your own backyard. • Birds of Prey • Urban & Park Wildlife • Olympians of the East Bay • SF Bay Wildlife • Endangered Species • Marine Mammals • And MORE!",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Wildlife of the Bay Area | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Discover secrets of Bay Area wildlife that you can find in our parks and in your own backyard. • Birds of Prey • Urban & Park Wildlife • Olympians of the East Bay • SF Bay Wildlife • Endangered Specie...",
+      "twitter_title": "Wildlife of the Bay Area | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Discover secrets of Bay Area wildlife that you can find in our parks and in your own backyard. • Birds of Prey • Urban & Park Wildlife • Olympians of the East Bay • SF Bay Wildlife • Endangered Specie..."
+    }
+  },
+  {
+    "id": "crabcove-2",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Naturalist in the Classroom",
+    "city": "District-wide",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "fee": "No",
+    "duration": "30 minutes -\r\r\n1 hour",
+    "format": "In Classroom",
+    "class_size": 30,
+    "class_max": "1 at a time / 3 per day",
+    "max_students": 90,
+    "description": "If you can't come to us, one of our naturalists can visit you! Our programs bring live reptiles to you or we can tailor the theme to fit your needs. Reach out for a list of topics. 1 class at a time, up to 3 classes/day.",
+    "emoji": "🏫🐍🦅",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In Classroom:%20Naturalist%20in%20the%20Classroom",
+    "application_status": [
+      {
+        "id": "crabcove-2",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Naturalist in the Classroom | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "If you can't come to us, one of our naturalists can visit you! Our programs bring live reptiles to you or we can tailor the theme to fit your needs. Reach out for a list of topics. 1 class at a time, up to 3 classes/day.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Naturalist in the Classroom | Doug Siden Crab Cove Visitor Center",
+      "og_description": "If you can't come to us, one of our naturalists can visit you! Our programs bring live reptiles to you or we can tailor the theme to fit your needs. Reach out for a list of topics. 1 class at a time, ...",
+      "twitter_title": "Naturalist in the Classroom | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "If you can't come to us, one of our naturalists can visit you! Our programs bring live reptiles to you or we can tailor the theme to fit your needs. Reach out for a list of topics. 1 class at a time, ..."
+    }
+  },
+  {
+    "id": "crabcove-3",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Creatures of the Bay",
+    "city": "Alameda",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "fee": "No",
+    "duration": "1 hour -\r\r\n1 hour 30 minutes",
+    "format": "In Person",
+    "class_size": 30,
+    "class_max": 3,
+    "max_students": 90,
+    "description": "Students explore animal basic needs and habitats while learning about creatures of the Bay. Ask for a specific theme such as habitats and adaptation, birds (dependent on season), food webs, volunteer opportunities and more!",
+    "emoji": "🦀🦅🌎",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In-Person:%20Creatures%20of%20the%20Bay",
+    "application_status": [
+      {
+        "id": "crabcove-3",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Creatures of the Bay | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Students explore animal basic needs and habitats while learning about creatures of the Bay. Ask for a specific theme such as habitats and adaptation, birds (dependent on season), food webs, volunteer opportunities and more!",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Creatures of the Bay | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Students explore animal basic needs and habitats while learning about creatures of the Bay. Ask for a specific theme such as habitats and adaptation, birds (dependent on season), food webs, volunteer ...",
+      "twitter_title": "Creatures of the Bay | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Students explore animal basic needs and habitats while learning about creatures of the Bay. Ask for a specific theme such as habitats and adaptation, birds (dependent on season), food webs, volunteer ..."
+    }
+  },
+  {
+    "id": "crabcove-4",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Explore Your Bay",
+    "city": "Alameda",
+    "grade": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "fee": "No",
+    "duration": "1 hour 30 minutes -\r\r\n2 hours",
+    "format": "In Person",
+    "class_size": 30,
+    "class_max": 3,
+    "max_students": 90,
+    "description": "Enjoy discovering the San Francisco Bay and the creatures that call it home. Find out what's going on between the tides, and how you can help. Low tide – mud flats and rocky shore. High tide – nature walk and marine activity.",
+    "emoji": "🌊🦀🔬 ",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In-Person:%20Explore%20Your%20Bay",
+    "application_status": [
+      {
+        "id": "crabcove-4",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Explore Your Bay | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Enjoy discovering the San Francisco Bay and the creatures that call it home. Find out what's going on between the tides, and how you can help. Low tide – mud flats and rocky shore. High tide – nature walk and marine activity.",
+      "keywords": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Explore Your Bay | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Enjoy discovering the San Francisco Bay and the creatures that call it home. Find out what's going on between the tides, and how you can help. Low tide – mud flats and rocky shore. High tide – nature ...",
+      "twitter_title": "Explore Your Bay | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Enjoy discovering the San Francisco Bay and the creatures that call it home. Find out what's going on between the tides, and how you can help. Low tide – mud flats and rocky shore. High tide – nature ..."
+    }
+  },
+  {
+    "id": "crabcove-5",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Cove Days",
+    "city": "Alameda",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "fee": "No",
+    "duration": "2 - 4 hours",
+    "format": "In Person",
+    "class_size": 30,
+    "class_max": 6,
+    "max_students": 180,
+    "description": "Traverse between activity stations with your group for seasonal guided explorations, a nature walk along the shoreline, wildlife crafts, and more! Depending on the class size, this program may include a break for lunch. Minimum of 4 classes.",
+    "emoji": "🌊🦈🦆",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "limited_availability": "Only available Wednesdays and Thursdays",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In-Person:%20Cove%20Days",
+    "application_status": [
+      {
+        "id": "crabcove-5",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Cove Days | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Traverse between activity stations with your group for seasonal guided explorations, a nature walk along the shoreline, wildlife crafts, and more! Depending on the class size, this program may include a break for lunch. Minimum of 4 classes.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Cove Days | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Traverse between activity stations with your group for seasonal guided explorations, a nature walk along the shoreline, wildlife crafts, and more! Depending on the class size, this program may include...",
+      "twitter_title": "Cove Days | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Traverse between activity stations with your group for seasonal guided explorations, a nature walk along the shoreline, wildlife crafts, and more! Depending on the class size, this program may include..."
+    }
+  },
+  {
+    "id": "crabcove-6",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Nature Walk",
+    "city": "Alameda, Castro Valley, Oakland, San Leandro",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13",
+    "fee": "No",
+    "duration": "1 - 2 hours",
+    "format": "In Person",
+    "class_size": 30,
+    "class_max": 3,
+    "max_students": 90,
+    "description": "Explore the parklands as your classroom! Programs are available at the following East Bay Regional Parks: • Anthony Chabot • Lake Chabot • Redwood • Elsie Roemer Bird Sanctuary • Leona Canyon • Roberts • MLK Jr. Shoreline • Sibley • Encinal Beach • Oyster Bay Shoreline • Temescal",
+    "emoji": "🌿🔍🥾",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In-Person:%20Nature%20Walk",
+    "application_status": [
+      {
+        "id": "crabcove-6",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-6",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Nature Walk | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Explore the parklands as your classroom! Programs are available at the following East Bay Regional Parks: • Anthony Chabot • Lake Chabot • Redwood • Elsie Roemer Bird Sanctuary • Leona Canyon • Roberts • MLK Jr. Shoreline • Sibley • Encinal Beach • Oyster Bay Shoreline • Temescal",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "13"
+      ],
+      "og_title": "Nature Walk | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Explore the parklands as your classroom! Programs are available at the following East Bay Regional Parks: • Anthony Chabot • Lake Chabot • Redwood • Elsie Roemer Bird Sanctuary • Leona Canyon • Robert...",
+      "twitter_title": "Nature Walk | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Explore the parklands as your classroom! Programs are available at the following East Bay Regional Parks: • Anthony Chabot • Lake Chabot • Redwood • Elsie Roemer Bird Sanctuary • Leona Canyon • Robert..."
+    }
+  },
+  {
+    "id": "crabcove-7",
+    "visitor_center": "Crab Cove",
+    "program_host": "Doug Siden Crab Cove Visitor Center",
+    "program_name": "Redwood Rendevzous",
+    "city": "Oakland",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5",
+    "fee": "No",
+    "duration": "2 hours",
+    "format": "In Person",
+    "class_size": 30,
+    "class_max": 3,
+    "max_students": 90,
+    "description": "Experience the magic of the forest. Students will rotate through a variety of forest themed activities including a nature walk, nature craft, tree study, and more.\r\n\r\nPark Locations: Roberts Recreation Area (Pre-K - 5th grade) or Reinhardt Redwood Regional Park (2nd - 5th grade).  Minimum of 3 classes.",
+    "emoji": "🌲🌿🥾",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Crab%20Cove%20Visitor%20Center&Program_Request_Crab_Cove_1st_Choice_Crab_Cove_1st_Choice=In-Person%2Redwood%20Rendezvous",
+    "application_status": [
+      {
+        "id": "crabcove-7",
+        "season": "FULLY BOOKED Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "crabcove-7",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Redwood Rendevzous | Doug Siden Crab Cove Visitor Center | East Bay Regional Park District",
+      "description": "Experience the magic of the forest. Students will rotate through a variety of forest themed activities including a nature walk, nature craft, tree study, and more.\r\n\r\nPark Locations: Roberts Recreation Area (Pre-K - 5th grade) or Reinhardt Redwood Regional Park (2nd - 5th grade).  Minimum of 3 classes.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "og_title": "Redwood Rendevzous | Doug Siden Crab Cove Visitor Center",
+      "og_description": "Experience the magic of the forest. Students will rotate through a variety of forest themed activities including a nature walk, nature craft, tree study, and more.\r\n\r\nPark Locations: Roberts Recreatio...",
+      "twitter_title": "Redwood Rendevzous | Doug Siden Crab Cove Visitor Center",
+      "twitter_description": "Experience the magic of the forest. Students will rotate through a variety of forest themed activities including a nature walk, nature craft, tree study, and more.\r\n\r\nPark Locations: Roberts Recreatio..."
+    }
+  }
+]

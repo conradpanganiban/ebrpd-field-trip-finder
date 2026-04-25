@@ -1,0 +1,460 @@
+[
+  {
+    "id": "ardenwood-1",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Exploring Senses on the Farm",
+    "city": "Fremont",
+    "grade": "Pre-K",
+    "fee": "yes",
+    "duration": "45 Minutes",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 6,
+    "description": "Join us for a sensory exploration on the farm! Through hands-on activities, students will learn how we use our five senses to experience the world around us. Then, we'll meet some of our friendly farm animals.",
+    "emoji": "🌽 🐐 👨‍🌾 👁️ 👃 👂 ✋",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Exploring%20Senses%20on%20the%20Farm",
+    "metadata": {
+      "title": "Exploring Senses on the Farm | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Join us for a sensory exploration on the farm! Through hands-on activities, students will learn how we use our five senses to experience the world around us. Then, we'll meet some of our friendly farm animals.",
+      "keywords": [
+        "Pre-K"
+      ],
+      "og_title": "Exploring Senses on the Farm | Ardenwood Historic Farm",
+      "og_description": "Join us for a sensory exploration on the farm! Through hands-on activities, students will learn how we use our five senses to experience the world around us. Then, we'll meet some of our friendly farm animals.",
+      "twitter_title": "Exploring Senses on the Farm | Ardenwood Historic Farm",
+      "twitter_description": "Join us for a sensory exploration on the farm! Through hands-on activities, students will learn how we use our five senses to experience the world around us. Then, we'll meet some of our friendly farm animals..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-2",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Farmyard Chores for Kids",
+    "city": "Fremont",
+    "grade": "K",
+    "fee": "yes",
+    "duration": "45 Minutes",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 6,
+    "description": "Discover what life was like for kids on a farm through hands-on activities. Students will learn about the daily chores children would help with, from preparing animal food to feeding the farm animals.",
+    "emoji": "🌽 🐐 🧺 👨‍🌾",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Farmyard%20Chores%20for%20Kids",
+    "learning_standards": "HSS-K.3, HSS-K.6.3",
+    "metadata": {
+      "title": "Farmyard Chores for Kids | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Discover what life was like for kids on a farm through hands-on activities. Students will learn about the daily chores children would help with, from preparing animal food to feeding the farm animals.",
+      "keywords": [
+        "K"
+      ],
+      "og_title": "Farmyard Chores for Kids | Ardenwood Historic Farm",
+      "og_description": "Discover what life was like for kids on a farm through hands-on activities. Students will learn about the daily chores children would help with, from preparing animal food to feeding the farm animals.",
+      "twitter_title": "Farmyard Chores for Kids | Ardenwood Historic Farm",
+      "twitter_description": "Discover what life was like for kids on a farm through hands-on activities. Students will learn about the daily chores children would help with, from preparing animal food to feeding the farm animals..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-2",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-3",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Life on the Farm",
+    "city": "Fremont",
+    "grade": "1",
+    "fee": "yes",
+    "duration": "1 hour",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 4,
+    "description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include getting your hands dirty while working the land, learning about old-time farming practices, and helping feed our farm animals.",
+    "emoji": "👨‍🌾 🐐 🌱 🚜 🌾 🥔",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Life%20on%20the%20Farm",
+    "learning_standards": "HSS-1.2.4, HSS-1.4, HSS-1.5",
+    "metadata": {
+      "title": "Life on the Farm | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include getting your hands dirty while working the land, learning about old-time farming practices, and helping feed our farm animals.",
+      "keywords": [
+        "1"
+      ],
+      "og_title": "Life on the Farm | Ardenwood Historic Farm",
+      "og_description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include...",
+      "twitter_title": "Life on the Farm | Ardenwood Historic Farm",
+      "twitter_description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-3",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-4",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Life on the Farm",
+    "city": "Fremont",
+    "grade": "2, 3, 4, 5, 6",
+    "fee": "yes",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 4,
+    "description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include getting your hands dirty while working the land, learning about old-time farming practices, and helping feed our farm animals.",
+    "emoji": "👨‍🌾 🐐 🌱 🚜 🌾 🥔",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Life%20on%20the%20Farm",
+    "learning_standards": "HSS-2.1.2, HSS-2.4.1, HSS-3.1.2, HSS-3.5.1, HSS-4.3.3, HSS-4.4.6, HSS-5.8.4, HSS-6.1.3, NGSS-2-LS2-1.A, NGSS-3-5-ETS1, NGSS-5.LS1-1, NGSS-5.ESS3-1.C ",
+    "metadata": {
+      "title": "Life on the Farm | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include getting your hands dirty while working the land, learning about old-time farming practices, and helping feed our farm animals.",
+      "keywords": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Life on the Farm | Ardenwood Historic Farm",
+      "og_description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include...",
+      "twitter_title": "Life on the Farm | Ardenwood Historic Farm",
+      "twitter_description": "Step back in time and explore life on a turn-of-the-last-century farm. Students will watch history come to life through hands-on, seasonal activities utilizing historic tools. Activities could include..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-4",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-5",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Wonderful Wool ",
+    "city": "Fremont",
+    "grade": "2, 3, 4, 5, 6",
+    "fee": "yes",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays; Closed April-October",
+    "class_size": "1 class",
+    "class_max": 4,
+    "description": "Meet our sheep and discover how their wool is transformed into the clothes we wear! This hands-on program explores the wool processing journey—from shearing and carding to spinning and knitting. Students will compare both historical and modern methods of wool processing, seeing how the craft has evolved over time. \r\r\r\nThis program is perfect for winter and can be comfortably hosted in one of our indoor farmyard spaces in any weather conditions.",
+    "emoji": "🐑 🧶 👩‍🌾 🫧",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Wonderful%20Wool",
+    "learning_standards": "HSS-2.1.2, HSS-3.5.1",
+    "metadata": {
+      "title": "Wonderful Wool  | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Meet our sheep and discover how their wool is transformed into the clothes we wear! This hands-on program explores the wool processing journey—from shearing and carding to spinning and knitting. Students will compare both historical and modern methods of wool processing, seeing how the craft has evolved over time. \r\r\r\nThis program is perfect for winter and can be comfortably hosted in one of our indoor farmyard spaces in any weather conditions.",
+      "keywords": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Wonderful Wool  | Ardenwood Historic Farm",
+      "og_description": "Meet our sheep and discover how their wool is transformed into the clothes we wear! This hands-on program explores the wool processing journey—from shearing and carding to spinning and knitting. Stude...",
+      "twitter_title": "Wonderful Wool  | Ardenwood Historic Farm",
+      "twitter_description": "Meet our sheep and discover how their wool is transformed into the clothes we wear! This hands-on program explores the wool processing journey—from shearing and carding to spinning and knitting. Stude..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-5",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-6",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Pollinator Power ",
+    "city": "Fremont",
+    "grade": "2, 3",
+    "fee": "yes",
+    "duration": "1 hour",
+    "format": "In Person",
+    "limited_availability": "Only available Tuesdays and Wednesdays from March through June",
+    "class_size": "1 class",
+    "class_max": 4,
+    "description": "Explore the important role pollinators play in producing our food. Through engaging activities and hands-on investigations, students will learn about the process of pollination and what we can do to support our pollinators. ",
+    "emoji": "🐝 🌱 🦋 💐 🔍",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Pollinator%20Power",
+    "learning_standards": "NGSS-2-LS2-2, NGSS-3-LS4-2.C, NGSS-3-LS4-3.C ",
+    "metadata": {
+      "title": "Pollinator Power  | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Explore the important role pollinators play in producing our food. Through engaging activities and hands-on investigations, students will learn about the process of pollination and what we can do to support our pollinators. ",
+      "keywords": [
+        "2",
+        "3"
+      ],
+      "og_title": "Pollinator Power  | Ardenwood Historic Farm",
+      "og_description": "Explore the important role pollinators play in producing our food. Through engaging activities and hands-on investigations, students will learn about the process of pollination and what we can do to s...",
+      "twitter_title": "Pollinator Power  | Ardenwood Historic Farm",
+      "twitter_description": "Explore the important role pollinators play in producing our food. Through engaging activities and hands-on investigations, students will learn about the process of pollination and what we can do to s..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-6",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-6",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-7",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Farmyard Station Day ",
+    "city": "Fremont",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6",
+    "fee": "yes",
+    "duration": "3.5 hours (30 minute Naturalist program)",
+    "format": "In Person",
+    "limited_availability": "Only available April through mid-November on select Thursdays",
+    "class_size": "1 class",
+    "class_max": 10,
+    "description": "Our Farmyard Station Day features a 30-minute, Naturalist-led program and interactive, self-guided stations throughout the park. Stations may consist of grinding & shelling corn, carding wool, games on the lawn, Patterson house tours, train rides, old-fashioned laundry, and visiting the farm animals. Naturalist program times and other scheduled activities (house tours and train times) are assigned based on availability. Please note station days are only available on certain days each month. ",
+    "emoji": "👨‍🌾 🐐 🚜 🌽 🚂",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=In-Person-Farmyard%20Station%20Day",
+    "learning_standards": "HSS-K.6.3, HSS-1.4, HSS-2.1, HSS-2.4.1, HSS-3.5.1",
+    "metadata": {
+      "title": "Farmyard Station Day  | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Our Farmyard Station Day features a 30-minute, Naturalist-led program and interactive, self-guided stations throughout the park. Stations may consist of grinding & shelling corn, carding wool, games on the lawn, Patterson house tours, train rides, old-fashioned laundry, and visiting the farm animals. Naturalist program times and other scheduled activities (house tours and train times) are assigned based on availability. Please note station days are only available on certain days each month. ",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Farmyard Station Day  | Ardenwood Historic Farm",
+      "og_description": "Our Farmyard Station Day features a 30-minute, Naturalist-led program and interactive, self-guided stations throughout the park. Stations may consist of grinding & shelling corn, carding wool, games o...",
+      "twitter_title": "Farmyard Station Day  | Ardenwood Historic Farm",
+      "twitter_description": "Our Farmyard Station Day features a 30-minute, Naturalist-led program and interactive, self-guided stations throughout the park. Stations may consist of grinding & shelling corn, carding wool, games o..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-7",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-7",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-8",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "Farming Through the Ages",
+    "city": "District-wide",
+    "grade": "K, 1",
+    "fee": "no",
+    "duration": "20 minutes",
+    "format": "Virtual",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 6,
+    "description": "Step back in time to a turn-of-the-last-century farm! Students will explore everyday farm tasks and historic farm equipment—discovering what's changed and what's stayed the same.",
+    "emoji": "🚜 👨‍🌾 🐐 🌾",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=Virtual-Farming%20Through%20the%20Ages",
+    "learning_standards": "HSS-K.4, HSS-K.6, HSS-1.4",
+    "metadata": {
+      "title": "Farming Through the Ages | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Step back in time to a turn-of-the-last-century farm! Students will explore everyday farm tasks and historic farm equipment—discovering what's changed and what's stayed the same.",
+      "keywords": [
+        "K",
+        "1"
+      ],
+      "og_title": "Farming Through the Ages | Ardenwood Historic Farm",
+      "og_description": "Step back in time to a turn-of-the-last-century farm! Students will explore everyday farm tasks and historic farm equipment—discovering what's changed and what's stayed the same.",
+      "twitter_title": "Farming Through the Ages | Ardenwood Historic Farm",
+      "twitter_description": "Step back in time to a turn-of-the-last-century farm! Students will explore everyday farm tasks and historic farm equipment—discovering what's changed and what's stayed the same..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-8",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-8",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-9",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "From Fields to Food",
+    "city": "District-wide",
+    "grade": "2",
+    "fee": "no",
+    "duration": "30 minutes",
+    "format": "Virtual",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 6,
+    "description": "Explore the journey of food from the field to the dinner plate as a Naturalist guides your students through an 1890s historic farm. Compare and contrast historical farming and cooking methods with modern technology as we transform crops into food.",
+    "emoji": "👨‍🌾 🚜 🌽 🍽️ ⚙️ 🐔",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=Virtual-From%20Fields%20to%20Food",
+    "learning_standards": "HSS- 2.1, HSS-2.4",
+    "metadata": {
+      "title": "From Fields to Food | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Explore the journey of food from the field to the dinner plate as a Naturalist guides your students through an 1890 the dinner plate as a Naturalist guides your students through an 1890s historic farm. Compare and contrast historical farming and cooking methods with modern technology as we transform crops into food.",
+      "keywords": [
+        "2"
+      ],
+      "og_title": "From Fields to Food | Ardenwood Historic Farm",
+      "og_description": "Explore the journey of food from the dinner plate as a Naturalist guides your students through an 1890s historic farm. Compare and contrast historical farming and cooking methods with mod...",
+      "twitter_title": "From Fields to Food | Ardenwood Historic Farm",
+      "twitter_description": "Explore the journey of food from the dinner plate as a Naturalist guides your students through an 1890s historic farm. Compare and contrast historical farming and cooking methods with mod..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-9",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-9",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "ardenwood-10",
+    "visitor_center": "Ardenwood",
+    "program_host": "Ardenwood Historic Farm",
+    "program_name": "California's Farming History",
+    "city": "District-wide",
+    "grade": "3, 4, 5",
+    "fee": "no",
+    "duration": "40 minutes",
+    "format": "Virtual",
+    "limited_availability": "Not available Mondays",
+    "class_size": "1 class",
+    "class_max": 6,
+    "description": "Trace the evolution of farming in California with a virtual tour of Ardenwood. Students will explore historic buildings and artifacts, as well as maps, photographs, diaries, and other primary sources, to discover the people and events that helped shape their community.",
+    "emoji": "👨‍🌾 🚜 🏠 🏭 📜 ⚙️ 🌱",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Ardenwood%20Historic%20Farm&Program_Request_Ardenwood_1st_Choice_Ardenwood_1st_Choice=Virtual-California's%20Farming%20History",
+    "learning_standards": "HSS-3.2, HSS-3.3, HSS-3.5, HSS-4.2, HSS-4.3, HSS-4.4, HSS-5.2, HSS-5.3",
+    "metadata": {
+      "title": "California's Farming History | Ardenwood Historic Farm | East Bay Regional Park District",
+      "description": "Trace the evolution of farming in California with a virtual tour of Ardenwood. Students will explore historic buildings and artifacts, as well as maps, photographs, diaries, and other primary sources, to discover the people and events that helped shape their community.",
+      "keywords": [
+        "3",
+        "4",
+        "5"
+      ],
+      "og_title": "California's Farming History | Ardenwood Historic Farm",
+      "og_description": "Trace the evolution of farming in California with a virtual tour of Ardenwood. Students will explore historic buildings and artifacts, as well as maps, photographs, diaries, and other primary sources,...",
+      "twitter_title": "California's Farming History | Ardenwood Historic Farm",
+      "twitter_description": "Trace the evolution of farming in California with a virtual tour of Ardenwood. Students will explore historic buildings and artifacts, as well as maps, photographs, diaries, and other primary sources,..."
+    },
+    "application_status": [
+      {
+        "id": "ardenwood-10",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "ardenwood-10",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  }
+]

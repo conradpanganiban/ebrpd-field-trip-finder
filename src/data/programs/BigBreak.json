@@ -1,0 +1,450 @@
+[
+  {
+    "id": "bigbreak-1",
+    "visitor_center": "Big Break",
+    "program_name": "Creatures of the Wetland",
+    "city": "Oakley",
+    "grade": "Pre-K, K, 1, 2",
+    "learning_standards": "K-LS1-1, K-ESS3-3, 1-LS1-1, 1-LS1-2, 2-LS4-1",
+    "fee": "No",
+    "duration": "1.5hrs",
+    "format": "In Person",
+    "description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shelter in this watery habitat.",
+    "emoji": "🦆 🌿 🐸",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 2,
+    "max_students": 60,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20Creatures%20of%20the%20Wetland",
+    "metadata": {
+      "title": "Creatures of the Wetland | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shelter in this watery habitat.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2"
+      ],
+      "og_title": "Creatures of the Wetland | Big Break Visitor Center",
+      "og_description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shel...",
+      "twitter_title": "Creatures of the Wetland | Big Break Visitor Center",
+      "twitter_description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shel..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-2",
+    "visitor_center": "Big Break",
+    "program_name": "Discover the Delta Watershed",
+    "city": "Oakley",
+    "grade": "3, 4, 5, 6, 7, 8",
+    "learning_standards": "3-PS2-2, 3, 3-LS4-3, 3-ESS3-1, 4-PS3-3, 4-ESS2-1, 5-LS2-1, MS-LS2-1, MS-ESS3-4",
+    "fee": "No",
+    "duration": "1.5hrs",
+    "format": "In Person",
+    "description": "Learn about water in one of California's most significant watersheds – the Delta. Our 1,200 square-foot Delta map and targeted field/learning activities clarify watershed concepts, processes, and applications to students' lives.",
+    "emoji": "🗺️ 💧 🌊",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 2,
+    "max_students": 60,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20Discover%20the%20Delta%20Watershed",
+    "metadata": {
+      "title": "Discover the Delta Watershed | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Learn about water in one of California's most significant watersheds – the Delta. Our 1,200 square-foot Delta map and targeted field/learning activities clarify watershed concepts, processes, and applications to students' lives.",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "og_title": "Discover the Delta Watershed | Big Break Visitor Center",
+      "og_description": "Learn about water in one of California's most significant watersheds – the Delta. Our 1,200 square-foot Delta map and targeted field/learning activities clarify watershed concepts, processes, and appl...",
+      "twitter_title": "Discover the Delta Watershed | Big Break Visitor Center",
+      "twitter_description": "Learn about water in one of California's most significant watersheds – the Delta. Our 1,200 square-foot Delta map and targeted field/learning activities clarify watershed concepts, processes, and appl..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-2",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-3",
+    "visitor_center": "Big Break",
+    "program_name": "Delta Wetlands Inquiry",
+    "city": "Oakley",
+    "grade": "5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "N/A",
+    "fee": "No",
+    "duration": "3 hrs",
+    "format": "In Person",
+    "description": "Explore the science of the Delta and its powerful impact on everyday lives. Your class will create and test a hypothesis about the Delta ecosystem. Field work may include sampling water chemistry, cataloging wetland plants, investigating invertebrates, or more.",
+    "emoji": "🔬 🌱 🔍",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-30",
+    "class_max": 2,
+    "max_students": 60,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20Delta%20Wetlands%20Inquiry",
+    "metadata": {
+      "title": "Delta Wetlands Inquiry | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Explore the science of the Delta and its powerful impact on everyday lives. Your class will create and test a hypothesis about the Delta ecosystem. Field work may include sampling water chemistry, cataloging wetland plants, investigating invertebrates, or more.",
+      "keywords": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Delta Wetlands Inquiry | Big Break Visitor Center",
+      "og_description": "Explore the science of the Delta and its powerful impact on everyday lives. Your class will create and test a hypothesis about the Delta ecosystem. Field work may include sampling water chemistry, cat...",
+      "twitter_title": "Delta Wetlands Inquiry | Big Break Visitor Center",
+      "twitter_description": "Explore the science of the Delta and its powerful impact on everyday lives. Your class will create and test a hypothesis about the Delta ecosystem. Field work may include sampling water chemistry, cat..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-3",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-4",
+    "visitor_center": "Big Break",
+    "program_name": "What's in Your Water?",
+    "city": "Oakley",
+    "grade": "3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "3-LS4-3, 3-LS4-4, 2-LS4-1, MS-LS2-3, MS-LS2-4, MS-ESS3-3, MS-ESS3-4, HS-LS2-4, HS-LS2-2, HS-LS2-7, HS-LS4-6, HS-ESS3-1, HS-ESS3-3, HS-ESS3-6",
+    "fee": "No",
+    "duration": "2hrs",
+    "format": "In Person",
+    "description": "Evaluate the source of California's drinking water through scientific methods. Explore human impacts and discover the science of the Sacramento-San Joaquin Delta watershed.",
+    "emoji": "💧 🔍 🚰",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 3,
+    "max_students": 90,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20What%27s%20In%20Your%20Water",
+    "metadata": {
+      "title": "What's in Your Water? | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Evaluate the source of California's drinking water through scientific methods. Explore human impacts and discover the science of the Sacramento-San Joaquin Delta watershed.",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "What's in Your Water? | Big Break Visitor Center",
+      "og_description": "Evaluate the source of California's drinking water through scientific methods. Explore human impacts and discover the science of the Sacramento-San Joaquin Delta watershed.",
+      "twitter_title": "What's in Your Water? | Big Break Visitor Center",
+      "twitter_description": "Evaluate the source of California's drinking water through scientific methods. Explore human impacts and discover the science of the Sacramento-San Joaquin Delta watershed."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-4",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-5",
+    "visitor_center": "Big Break",
+    "program_name": "Out in the Tules",
+    "city": "Oakley",
+    "grade": "2, 3, 4",
+    "learning_standards": "K-ESS3-3, 1-LS1-1, 2-LS4-1,3-LS4-4, 4-ESS3-2, 5-ESS3-1",
+    "fee": "No",
+    "duration": "1.5hrs",
+    "format": "In Person",
+    "description": "This program introduces students to parts of the local indigenous culture. Students will learn about Native American People, their connection to the land and natural resources, and traditional skills.",
+    "emoji": "🏺 🌾 🌿",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 3,
+    "max_students": 90,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20Out%20in%20the%20Tules",
+    "metadata": {
+      "title": "Out in the Tules | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "This program introduces students to parts of the local indigenous culture. Students will learn about Native American People, their connection to the land and natural resources, and traditional skills.",
+      "keywords": [
+        "2",
+        "3",
+        "4"
+      ],
+      "og_title": "Out in the Tules | Big Break Visitor Center",
+      "og_description": "This program introduces students to parts of the local indigenous culture. Students will learn about Native American People, their connection to the land and natural resources, and traditional skills.",
+      "twitter_title": "Out in the Tules | Big Break Visitor Center",
+      "twitter_description": "This program introduces students to parts of the local indigenous culture. Students will learn about Native American People, their connection to the land and natural resources, and traditional skills."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-5",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-6",
+    "visitor_center": "Big Break",
+    "program_name": "Delta Variety",
+    "city": "Oakley",
+    "grade": "Pre-K, K, 1, 2, 3, 4, 5, 6, 7, 8",
+    "learning_standards": "N/A",
+    "fee": "No",
+    "duration": "3hrs",
+    "format": "In Person",
+    "description": "We'll set up multiple stations with opportunities to explore the unending variety of the Delta. Plants, animals, crafts, games, and other activities are all guaranteed to make Delta experts out of your large group.",
+    "emoji": "🎨 🎮 🌿",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 6,
+    "max_students": 150,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=In-Person-%20Delta%20Variety",
+    "metadata": {
+      "title": "Delta Variety | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "We'll set up multiple stations with opportunities to explore the unending variety of the Delta. Plants, animals, crafts, games, and other activities are all guaranteed to make Delta experts out of your large group.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "og_title": "Delta Variety | Big Break Visitor Center",
+      "og_description": "We'll set up multiple stations with opportunities to explore the unending variety of the Delta. Plants, animals, crafts, games, and other activities are all guaranteed to make Delta experts out of you...",
+      "twitter_title": "Delta Variety | Big Break Visitor Center",
+      "twitter_description": "We'll set up multiple stations with opportunities to explore the unending variety of the Delta. Plants, animals, crafts, games, and other activities are all guaranteed to make Delta experts out of you..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-6",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-6",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-7",
+    "visitor_center": "Big Break",
+    "program_name": "Kayaking Big Break",
+    "city": "Oakley",
+    "grade": "8, 9, 10, 11, 12, college",
+    "fee": "yes",
+    "duration": "3 hours",
+    "format": "In Person",
+    "description": "There is no better way to explore and understand the wonder of the Delta than by kayak. FEE PROGRAM. Call 510-544-2753 for program details and pricing.",
+    "emoji": "🛶 💰 🌊",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": 12,
+    "class_max": 2,
+    "max_students": "12 people per rotation (max. 2 rotations per day)",
+    "link_suffix": "",
+    "metadata": {
+      "title": "Kayaking Big Break | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "There is no better way to explore and understand the wonder of the Delta than by kayak. FEE PROGRAM. Call 510-544-2753 for program details and pricing.",
+      "keywords": [
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "college"
+      ],
+      "og_title": "Kayaking Big Break | Big Break Visitor Center",
+      "og_description": "There is no better way to explore and understand the wonder of the Delta than by kayak. FEE PROGRAM. Call 510-544-2753 for program details and pricing.",
+      "twitter_title": "Kayaking Big Break | Big Break Visitor Center",
+      "twitter_description": "There is no better way to explore and understand the wonder of the Delta than by kayak. FEE PROGRAM. Call 510-544-2753 for program details and pricing."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-7",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-7",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-8",
+    "visitor_center": "Big Break",
+    "program_name": "Naturalist in Class: Hootin' Habitats",
+    "city": "Various",
+    "grade": "2, 3, 4",
+    "learning_standards": "2-LS4-1, 3-LS4-3, 3-LS3-2, 4-LS1-1",
+    "fee": "No",
+    "duration": "45min",
+    "format": "In Classroom",
+    "description": "Did you know that owls protect our homes and our food? Students will dissect owl pellets and discover how these wonderful birds provide pest control through their hunting habits. Students will also find out that we can help owls by protecting safe spaces like Big Break that they need to live and grow.",
+    "emoji": "🦉 🔍 🏠",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 5,
+    "max_students": 30,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=Naturalist%20in%20Class:%20Hootin%27%20Habitats",
+    "metadata": {
+      "title": "Naturalist in Class: Hootin' Habitats | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Did you know that owls protect our homes and our food? Students will dissect owl pellets and discover how these wonderful birds provide pest control through their hunting habits. Students will also find out that we can help owls by protecting safe spaces like Big Break that they need to live and grow.",
+      "keywords": [
+        "2",
+        "3",
+        "4"
+      ],
+      "og_title": "Naturalist in Class: Hootin' Habitats | Big Break Visitor Center",
+      "og_description": "Did you know that owls protect our homes and our food? Students will dissect owl pellets and discover how these wonderful birds provide pest control through their hunting habits. Students will also fi...",
+      "twitter_title": "Naturalist in Class: Hootin' Habitats | Big Break Visitor Center",
+      "twitter_description": "Did you know that owls protect our homes and our food? Students will dissect owl pellets and discover how these wonderful birds provide pest control through their hunting habits. Students will also fi..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-8",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-8",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  },
+  {
+    "id": "bigbreak-9",
+    "visitor_center": "Big Break",
+    "program_name": "Naturalist in Class: Creature of the Wetlands",
+    "city": "Various",
+    "grade": "Pre-K, K, 1, 2",
+    "learning_standards": "K-LS1-1, K-ESS3-3, 1-LS1-1, 1-LS1-2, 2-LS4-1",
+    "fee": "No",
+    "duration": "30 minutes",
+    "format": "In Classroom",
+    "description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shelter in this watery habitat.",
+    "emoji": "🦆 🌿 🏫",
+    "program_host": "Big Break Visitor Center",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "class_size": "15-35",
+    "class_max": 5,
+    "max_students": 30,
+    "max_chaperones": "No Max.",
+    "link_suffix": "Big%20Break%20Visitor%20Center&Program_Request_Big_Break_1st_Choice_Big_Break_1st_Choice=Naturalist%20in%20Class:%20Creature%20of%20the%20Wetlands",
+    "metadata": {
+      "title": "Naturalist in Class: Creature of the Wetlands | Big Break Visitor Center | East Bay Regional Park District",
+      "description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shelter in this watery habitat.",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2"
+      ],
+      "og_title": "Naturalist in Class: Creature of the Wetlands | Big Break Visitor Center",
+      "og_description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shel...",
+      "twitter_title": "Naturalist in Class: Creature of the Wetlands | Big Break Visitor Center",
+      "twitter_description": "Discover why many different animals live at Big Break! Students will learn that all creatures have basic needs to live and grow, while they explore how some of the wetland residents find food and shel..."
+    },
+    "application_status": [
+      {
+        "id": "bigbreak-9",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "bigbreak-9",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ]
+  }
+]

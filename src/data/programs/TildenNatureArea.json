@@ -1,0 +1,342 @@
+[
+  {
+    "id": "tilden-1",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Nature Ramble",
+    "city": "Berkeley",
+    "grade": "Pre-K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, College",
+    "learning_standards": "LS1-A, B, C: ESS2-2, ESS3-A",
+    "duration": "1-1.5 hours",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "15-30",
+    "class_max": 8,
+    "max_students": 34,
+    "description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+    "emoji": "🚶",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=In-Person-%20Nature%20Ramble",
+    "application_status": [
+      {
+        "id": "tilden-1",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Nature Ramble | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+      "keywords": [
+        "Pre-K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "College"
+      ],
+      "og_title": "Nature Ramble | Tilden Environmental Education Center",
+      "og_description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+      "twitter_title": "Nature Ramble | Tilden Environmental Education Center",
+      "twitter_description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program."
+    }
+  },
+  {
+    "id": "tilden-2",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Farm Tour",
+    "city": "Berkeley",
+    "grade": "Pre-K, K, 1, 2, 3",
+    "learning_standards": "HSS-K.6.3, HSS-1.4, HSS-2.1, HSS-2.4.1, HSS-3.5.1",
+    "duration": "1 hour",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays or in May",
+    "class_size": "15-30",
+    "class_max": 4,
+    "max_students": 34,
+    "description": "Meet the animals at the Little Farm and learn the importance of agriculture in our daily lives. ",
+    "emoji": "🐄",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=In-Person-%20Farm%20Tour",
+    "application_status": [
+      {
+        "id": "tilden-2",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-2",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Farm Tour | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "Meet the animals at the Little Farm and learn the importance of agriculture in our daily lives. ",
+      "keywords": [
+        "Pre-K",
+        "K",
+        "1",
+        "2",
+        "3"
+      ],
+      "og_title": "Farm Tour | Tilden Environmental Education Center",
+      "og_description": "Meet the animals at the Little Farm and learn the importance of agriculture in our daily lives. ",
+      "twitter_title": "Farm Tour | Tilden Environmental Education Center",
+      "twitter_description": "Meet the animals at the Little Farm and learn the importance of agriculture in our daily lives. "
+    }
+  },
+  {
+    "id": "tilden-3",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Aquatic Habitat Study",
+    "city": "Berkeley",
+    "grade": "2, 3, 4, 5, 6",
+    "learning_standards": "ESS2-3, LS4-1, ESS1-1",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "limited_availability": "Not available May-Dec or on Mondays",
+    "class_size": "15-30",
+    "class_max": 4,
+    "max_students": 34,
+    "description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+    "emoji": "🌊",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=In-Person-%20Aquatic%20Habitat%20Study%20(Jan-Apr)",
+    "application_status": [
+      {
+        "id": "tilden-3",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-3",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Aquatic Habitat Study | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+      "keywords": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Aquatic Habitat Study | Tilden Environmental Education Center",
+      "og_description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+      "twitter_title": "Aquatic Habitat Study | Tilden Environmental Education Center",
+      "twitter_description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants."
+    }
+  },
+  {
+    "id": "tilden-4",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Ohlone Culture Program",
+    "city": "Berkeley",
+    "grade": "3, 4, 5, 6",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_size": "15-30",
+    "class_max": 8,
+    "max_students": 34,
+    "description": "Students will learn about Native people, their connection to the land and natural resources, and traditional skills used by the Ohlone today.  Program includes hands-on activities and time outdoors. ",
+    "emoji": "🫶🏾",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=In-Person-%20Ohlone%20Culture%20Program",
+    "application_status": [
+      {
+        "id": "tilden-4",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-4",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Ohlone Culture Program | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "Students will learn about Native people, their connection to the land and natural resources, and traditional skills used by the Ohlone today.  Program includes hands-on activities and time outdoors. ",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Ohlone Culture Program | Tilden Environmental Education Center",
+      "og_description": "Students will learn about Native people, their connection to the land and natural resources, and traditional skills used by the Ohlone today.  Program includes hands-on activities and time outdoors. ",
+      "twitter_title": "Ohlone Culture Program | Tilden Environmental Education Center",
+      "twitter_description": "Students will learn about Native people, their connection to the land and natural resources, and traditional skills used by the Ohlone today.  Program includes hands-on activities and time outdoors. "
+    }
+  },
+  {
+    "id": "tilden-5",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Nature Ramble",
+    "city": "Berkeley",
+    "grade": "Pre-K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, College",
+    "learning_standards": "LS1-A, B, C: ESS2-2, ESS3-A",
+    "duration": "1 hour",
+    "format": "Virtual",
+    "limited_availability": "Not available Mondays",
+    "class_size": "15-30",
+    "class_max": 2,
+    "max_students": 34,
+    "description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+    "emoji": "🖥️",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=Virtual-%20Nature%20Ramble",
+    "application_status": [
+      {
+        "id": "tilden-5",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-5",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Nature Ramble | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+      "keywords": [
+        "Pre-K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "College"
+      ],
+      "og_title": "Nature Ramble | Tilden Environmental Education Center",
+      "og_description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program.",
+      "twitter_title": "Nature Ramble | Tilden Environmental Education Center",
+      "twitter_description": "An exploration of the Nature Area's flora and Fauna- anything can happen! Our walk will discover what is occurring out in the park throughout the year- all dependent on the season of the program."
+    }
+  },
+  {
+    "id": "tilden-6",
+    "visitor_center": "Tilden Nature Area",
+    "program_host": "Tilden Environmental Education Center",
+    "program_name": "Aquatic Habitat Study",
+    "city": "Berkeley",
+    "grade": "2, 3, 4, 5, 6",
+    "learning_standards": "ESS2-3, LS4-1, ESS1-1",
+    "duration": "1 hour",
+    "format": "Virtual",
+    "limited_availability": "Not available May-Dec or on Mondays",
+    "class_size": "15-30",
+    "class_max": 2,
+    "max_students": 34,
+    "description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+    "emoji": "🖥️ 🌊",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Tilden%20Nature%20Area&Program_Request_Tilden_1st_Choice_Tilden_1st_Choice=Virtual-%20Aquatic%20Habitat%20Study",
+    "application_status": [
+      {
+        "id": "tilden-6",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-6",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "tilden-6",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Aquatic Habitat Study | Tilden Environmental Education Center | East Bay Regional Park District",
+      "description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+      "keywords": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "og_title": "Aquatic Habitat Study | Tilden Environmental Education Center",
+      "og_description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants.",
+      "twitter_title": "Aquatic Habitat Study | Tilden Environmental Education Center",
+      "twitter_description": "Explore the aquatic habitats of the Tilden Nature Area and its inhabitants."
+    }
+  }
+]

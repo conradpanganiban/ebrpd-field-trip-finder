@@ -1,0 +1,42 @@
+{
+  "id": "bigbreak-7",
+  "visitor_center": "Big Break",
+  "program_name": "Special Program",
+  "city": "Oakley",
+  "grade": "3, 4, 5",
+  "learning_standards": "3-LS4-3, 3-LS4-4",
+  "fee": "no",
+  "duration": "2hrs",
+  "format": "In Person",
+  "max_participants": "30",
+  "description": "A special program with custom application process.",
+  "months_not_available": null,
+  "location": "Big Break",
+  "days_not_available": null,
+  "emoji": "🔍 🌊",
+  "program_host": "Big Break Visitor Center",
+  "limited_availability": {
+    "days": [],
+    "months": []
+  },
+  "application_status": [
+    {
+      "season": "Spring 2025",
+      "status": "closed",
+      "isOverride": true,
+      "customMessage": "Call 510-544-2553 for details"
+    },
+    {
+      "season": "Summer 2025",
+      "status": "closed",
+      "isOverride": true,
+      "customMessage": "Call 510-544-2553 for details"
+    },
+    {
+      "season": "Fall 2025",
+      "status": "closed",
+      "isOverride": true,
+      "customMessage": "Call 510-544-2553 for details"
+    }
+  ]
+} 

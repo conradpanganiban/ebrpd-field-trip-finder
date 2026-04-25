@@ -1,0 +1,57 @@
+[
+  {
+    "id": "radkemartinez-1",
+    "visitor_center": "Radke Martinez",
+    "program_host": "Radke Martinez Regional Shoreline",
+    "program_name": "Marsh Exploration",
+    "city": "Martinez",
+    "grade": "K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "K-ESS3-1, K-ESS3-3, K-LS1-1, 1-LS1-1, 2-LS4-1, 3-LS4-3, 3-LS4-4, 3-ESS3-1, 4-LS1-1,5-LS2-1, 5-PS3-1, 5-ESS3-1,MS-LS1-5, MS-ESS3-3, MS-LS2-4, MS-LS4-4, MS-ESS1-1, MS-PS4-2 HS-LS2-6, HS-LS2-7, HS-LS4-2, HS-LS4-4, HS-LS4-5, HS-ESS3-1, HS-ESS3-4",
+    "fee": "no",
+    "duration": "1-2 classes: 1.5 hours                                  \r\n3-4 classes: 3.5 hours (includes time for lunch and self-guided teacher activity)",
+    "format": "In Person",
+    "class_max": 4,
+    "max_students": "35 people per class (including chaperones)",
+    "max_chaperones": "Min/Max Chaperone to Student Ratio: 1:8-1:4",
+    "description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "link_suffix": "Radke%@0Martinez%20Regional%20Shoreline",
+    "application_status": [
+      {
+        "id": "radkemartinez-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "radkemartinez-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ],
+    "metadata": {
+      "title": "Marsh Exploration | Radke Martinez Regional Shoreline | East Bay Regional Park District",
+      "description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+      "keywords": [
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Marsh Exploration | Radke Martinez Regional Shoreline",
+      "og_description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community.",
+      "twitter_title": "Marsh Exploration | Radke Martinez Regional Shoreline",
+      "twitter_description": "Hike along Martinez Regional Shoreline to learn about our important marsh habitats in the San Francisco Bay area. We will explore the plants and animals of this diverse community."
+    }
+  }
+]

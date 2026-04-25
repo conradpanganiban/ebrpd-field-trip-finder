@@ -1,0 +1,232 @@
+[
+  {
+    "id": "coyotehills-1",
+    "visitor_center": "Coyote Hills",
+    "program_host": "Coyote Hills Visitor Center",
+    "program_name": "Ohlone Cultural Program",
+    "city": "Fremont",
+    "grade": "3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "HSS-3.2, K-ESS3-3, 1-LS1-1, 2-LS4-1, \r\r\n3-LS4-4, 4-ESS3-2, 5-ESS3-1, ESS3",
+    "fee": "No",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "class_max": "1 per naturalist, 1-3 naturalists available per day",
+    "max_chaperones": 10,
+    "description": "This program introduces students to parts of Ohlone culture. Students will learn about East Bay Native Peoples, their connection to the land and Local natural resources, and traditional skills. Using hands-on activities and time outdoors, students will explore specimens and replica items that Native People still use today. ",
+    "emoji": "🏞️ ☀️ 🚌 🌰",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "max_students": 32,
+    "class_max_1": "1 per naturalist, 1-3 naturalists available per day",
+    "max_chaperones_1": 10,
+    "link_suffix": "Coyote Hills Visitor Center&Program_Request_Coyote_Hills_1st_Choice_Coyote_Hills_1st_Choice=In-Person- Ohlone Cultural Program&OPP_TITLE=&OPP_REC_HIDE_FROM_SEARCH=1&Other_Volunteer_Type_Volunteer_Type=Teacher/Organizer",
+    "application_status": [
+      {
+        "id": "coyotehills-1",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "coyotehills-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ],
+    "metadata": {
+      "title": "Ohlone Cultural Program | Coyote Hills Visitor Center | East Bay Regional Park District",
+      "description": "This program introduces students to parts of Ohlone culture. Students will learn about East Bay Native Peoples, their connection to the land and Local natural resources, and traditional skills. Using hands-on activities and time outdoors, students will explore specimens and replica items that Native People still use today. ",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Ohlone Cultural Program | Coyote Hills Visitor Center",
+      "og_description": "This program introduces students to parts of Ohlone culture. Students will learn about East Bay Native Peoples, their connection to the land and Local natural resources, and traditional skills. Using ...",
+      "twitter_title": "Ohlone Cultural Program | Coyote Hills Visitor Center",
+      "twitter_description": "This program introduces students to parts of Ohlone culture. Students will learn about East Bay Native Peoples, their connection to the land and Local natural resources, and traditional skills. Using ..."
+    }
+  },
+  {
+    "id": "coyotehills-2",
+    "visitor_center": "Coyote Hills",
+    "program_host": "Coyote Hills Visitor Center",
+    "program_name": "Cultural History of Ohlone Peoples",
+    "city": "Fremont",
+    "grade": "3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "HSS-3.2, K-ESS3-3, 1-LS1-1, 2-LS4-1, \r\r\n3-LS4-4, 4-ESS3-2, 5-ESS3-1, ESS3",
+    "fee": "No",
+    "duration": "1 hour",
+    "format": "Virtual",
+    "description": "Discover the culture and traditions of East Bay Ohlone Peoples through virtual exploration. Via video conferencing, students will investigate how Native Peoples have long connected with the land and its natural resources.  Students will explore with a naturalist specimens and replica items that Native People still use today.   ",
+    "emoji": "🌐 💻 🌰 🍂",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "max_students": 45,
+    "link_suffix": "Coyote Hills Visitor Center&Program_Request_Coyote_Hills_1st_Choice_Coyote_Hills_1st_Choice=Virtual- Cultural History of Ohlone Peoples&OPP_TITLE=&OPP_REC_HIDE_FROM_SEARCH=1&Other_Volunteer_Type_Volunteer_Type=Teacher/Organizer",
+    "application_status": [
+      {
+        "id": "coyotehills-2",
+        "season": "FULLY BOOKED Spring 2026",
+        "status": "closed",
+        "isOverride": true
+      },
+      {
+        "id": "coyotehills-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": true
+      }
+    ],
+    "metadata": {
+      "title": "Cultural History of Ohlone Peoples | Coyote Hills Visitor Center | East Bay Regional Park District",
+      "description": "Discover the culture and traditions of East Bay Ohlone Peoples through virtual exploration. Via video conferencing, students will investigate how Native Peoples have long connected with the land and its natural resources.  Students will explore with a naturalist specimens and replica items that Native People still use today.   ",
+      "keywords": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Cultural History of Ohlone Peoples | Coyote Hills Visitor Center",
+      "og_description": "Discover the culture and traditions of East Bay Ohlone Peoples through virtual exploration. Via video conferencing, students will investigate how Native Peoples have long connected with the land and i...",
+      "twitter_title": "Cultural History of Ohlone Peoples | Coyote Hills Visitor Center",
+      "twitter_description": "Discover the culture and traditions of East Bay Ohlone Peoples through virtual exploration. Via video conferencing, students will investigate how Native Peoples have long connected with the land and i..."
+    }
+  },
+  {
+    "id": "coyotehills-3",
+    "visitor_center": "Coyote Hills",
+    "program_host": "Coyote Hills Visitor Center",
+    "program_name": "Wetland Wonderers",
+    "city": "Fremont",
+    "grade": "K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "K-LS1-1, K-ESS3-3, 1-LS1-1, 1-LS1-2, \r\r\n2-LS4-1, 3-LS4-3, 3-LS4-4, 2-LS4-1,\r\r\n MS-LS2-3, MS-LS2-4, MS-ESS3-3, \r\r\nMS-ESS3-4, HS-LS2-4, HS-LS2-2, \r\r\nHS-LS2-7, HS-LS4-6, HS-ESS3-1, \r\r\nHS-ESS3-3, HS-ESS3-6 ",
+    "fee": "No",
+    "duration": "1.5 hours",
+    "format": "In Person",
+    "class_max": "1 per naturalist, 1-3 naturalists available per day",
+    "max_chaperones": 10,
+    "description": "Explore the wetlands of Coyote Hills and its inhabitants to learn ways to conserve natural resources. Students will learn the types of plants and animals in wetland habitats and how they have adapted to survive. Meet animal ambassadors, explore specimens, and get time outside in this adaptable, exploration-heavy, and sensory-engaging program.  ",
+    "emoji": "🏞️ ☀️ 🚌 💧",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "max_students": 24,
+    "class_max_1": "1 per naturalist, 1-3 naturalists available per day",
+    "max_chaperones_1": 10,
+    "link_suffix": "Coyote Hills Visitor Center&Program_Request_Coyote_Hills_1st_Choice_Coyote_Hills_1st_Choice=In-Person- Wetland Wonderers&OPP_TITLE=&OPP_REC_HIDE_FROM_SEARCH=1&Other_Volunteer_Type_Volunteer_Type=Teacher/Organizer",
+    "application_status": [
+      {
+        "id": "coyotehills-3",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "coyotehills-3",
+        "season": "Spring 2026",
+        "status": "open",
+        "isOverride": false
+      },
+      {
+        "id": "coyotehills-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Wetland Wonderers | Coyote Hills Visitor Center | East Bay Regional Park District",
+      "description": "Explore the wetlands of Coyote Hills and its inhabitants to learn ways to conserve natural resources. Students will learn the types of plants and animals in wetland habitats and how they have adapted to survive. Meet animal ambassadors, explore specimens, and get time outside in this adaptable, exploration-heavy, and sensory-engaging program.  ",
+      "keywords": [
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Wetland Wonderers | Coyote Hills Visitor Center",
+      "og_description": "Explore the wetlands of Coyote Hills and its inhabitants to learn ways to conserve natural resources. Students will learn the types of plants and animals in wetland habitats and how they have adapted ...",
+      "twitter_title": "Wetland Wonderers | Coyote Hills Visitor Center",
+      "twitter_description": "Explore the wetlands of Coyote Hills and its inhabitants to learn ways to conserve natural resources. Students will learn the types of plants and animals in wetland habitats and how they have adapted ..."
+    }
+  },
+  {
+    "id": "coyotehills-4",
+    "visitor_center": "Coyote Hills",
+    "program_host": "Coyote Hills Visitor Center",
+    "program_name": "Natural History of Plants & Animals",
+    "city": "Fremont",
+    "grade": "K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "learning_standards": "K-LS1-1, K-ESS3-3, 1-LS1-1, 1-LS1-2, \r\r\n2-LS4-1, 3-LS4-3, 3-LS4-4, 2-LS4-1,\r\r\n MS-LS2-3, MS-LS2-4, MS-ESS3-3, \r\r\nMS-ESS3-4, HS-LS2-4, HS-LS2-2, \r\r\nHS-LS2-7, HS-LS4-6, HS-ESS3-1, \r\r\nHS-ESS3-3, HS-ESS3-6 ",
+    "fee": "No",
+    "duration": "1 hour",
+    "format": "Virtual",
+    "description": "Explore the wetlands of Coyote Hills and its inhabitants to\r\r\n learn ways to conserve natural resources. Students will virtually learn the types of plants and animals in wetland habitats and how they have adapted to survive. Explore specimens, meet animal ambassadors, and discover animal adaptations. ",
+    "emoji": "🌐 💻 💧 🌿",
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "max_students": 45,
+    "link_suffix": "Coyote Hills Visitor Center&Program_Request_Coyote_Hills_1st_Choice_Coyote_Hills_1st_Choice=Virtual- Natural History of Plants & Animals&OPP_TITLE=&OPP_REC_HIDE_FROM_SEARCH=1&Other_Volunteer_Type_Volunteer_Type=Teacher/Organizer",
+    "application_status": [
+      {
+        "id": "coyotehills-4",
+        "season": "Spring 2025",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "coyotehills-4",
+        "season": "Spring 2026",
+        "status": "open",
+        "isOverride": false
+      },
+      {
+        "id": "coyotehills-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "metadata": {
+      "title": "Natural History of Plants & Animals | Coyote Hills Visitor Center | East Bay Regional Park District",
+      "description": "Explore the wetlands of Coyote Hills and its inhabitants to\r\r\n learn ways to conserve natural resources. Students will virtually learn the types of plants and animals in wetland habitats and how they have adapted to survive. Explore specimens, meet animal ambassadors, and discover animal adaptations. ",
+      "keywords": [
+        "K",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "og_title": "Natural History of Plants & Animals | Coyote Hills Visitor Center",
+      "og_description": "Explore the wetlands of Coyote Hills and its inhabitants to\r\r\n learn ways to conserve natural resources. Students will virtually learn the types of plants and animals in wetland habitats and how they ...",
+      "twitter_title": "Natural History of Plants & Animals | Coyote Hills Visitor Center",
+      "twitter_description": "Explore the wetlands of Coyote Hills and its inhabitants to\r\r\n learn ways to conserve natural resources. Students will virtually learn the types of plants and animals in wetland habitats and how they ..."
+    }
+  }
+]

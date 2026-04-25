@@ -1,0 +1,23 @@
+{
+  "id": "new-program-1",
+  "visitor_center": "New Center",
+  "program_name": "New Program",
+  "city": "Oakley",
+  "grade": "K, 1, 2",
+  "learning_standards": "K-LS1-1, K-ESS3-3",
+  "fee": "no",
+  "duration": "1hr",
+  "format": "In Person",
+  "max_participants": "25",
+  "description": "A new program with default application status.",
+  "months_not_available": null,
+  "location": "New Center",
+  "days_not_available": null,
+  "emoji": "🌱 🌿",
+  "program_host": "New Center",
+  "limited_availability": {
+    "days": [],
+    "months": []
+  },
+  "application_status": []
+} 

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "mobile-1",
+    "visitor_center": "Mobile Education",
+    "program_host": "Mobile Education",
+    "program_name": "Naturalist in the Class: Birds of the East Bay",
+    "city": "District-wide",
+    "grade": "K,1,2,3,4,5,6,7,8",
+    "learning_standards": "K-LS1-1, 1-LS1, 2-LS4-1, 3-LS2, 4-LS1, 5-ESS3-1, K-ESS3-1, 1-LS3-1, 2-ESS2-1, 3-LS3, 2-ESS2-2, 3-LS4-2, 3-LS4-3, 3-LS4-4, K-2-ETS1-2, ESS3.C, LS1.A, LS1.B, LS1.C, LS3.A, MS-LS1-4, MS-LS4-2\r\n\r\n",
+    "fee": "no",
+    "duration": "30-45 Minutes",
+    "format": "In Classroom",
+    "limited_availability": "Not available Mondays",
+    "class_max": 4,
+    "max_students": "n/a",
+    "description": "Explore our diversity of birds from raptors to songbirds, what they leave behind (including owl pellet dissections for grades 1 and up), and their role in maintaining healthy ecosystems. Does not feature live birds",
+    "emoji": "🦅",
+    "link_suffix": "Mobile%20Education%20Programs",
+    "application_status": [
+      {
+        "id": "mobile-1",
+        "season": "Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "mobile-1",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "metadata": {
+      "title": "Naturalist in the Class: Birds of the East Bay | Mobile Education | East Bay Regional Park District",
+      "description": "Explore our diversity of birds from raptors to songbirds, what they leave behind (including owl pellet dissections for grades 1 and up), and their role in maintaining healthy ecosystems. Does not feature live birds",
+      "keywords": [
+        "K,1,2,3,4,5,6,7,8"
+      ],
+      "og_title": "Naturalist in the Class: Birds of the East Bay | Mobile Education",
+      "og_description": "Explore our diversity of birds from raptors to songbirds, what they leave behind (including owl pellet dissections for grades 1 and up), and their role in maintaining healthy ecosystems. Does not feat...",
+      "twitter_title": "Naturalist in the Class: Birds of the East Bay | Mobile Education",
+      "twitter_description": "Explore our diversity of birds from raptors to songbirds, what they leave behind (including owl pellet dissections for grades 1 and up), and their role in maintaining healthy ecosystems. Does not feat..."
+    }
+  },
+  {
+    "id": "mobile-2",
+    "visitor_center": "Mobile Education",
+    "program_host": "Mobile Education",
+    "program_name": "Naturalist in the Class: Botany",
+    "city": "District-wide",
+    "grade": "K,1,2,3,4,5,6,7,8",
+    "learning_standards": "K-LS1-1, 1-LS1, 2-LS4-1, 3-LS3, 4-LS1-1, 5-ESS3-1, K-ESS2-2, 1-LS3-1, 3-LS4-2, 5-LS1-1, K-ESS3-1, 3-LS4-3, 3-LS4-4, K-2-ETS1-2, ESS2.E, ESS3.C, LS1.A, LS1.B, LS1.C, LS3.A, MS-LS1-4, MS-LS4-2",
+    "fee": "no",
+    "duration": "30-45 Minutes",
+    "format": "In Classroom",
+    "limited_availability": "Not available Mondays",
+    "class_max": 4,
+    "max_students": "n/a",
+    "description": "Root yourself in our local plant species, examine the plant cycle, and use scientific tools to investigate further.",
+    "emoji": "🌿",
+    "link_suffix": "Mobile%20Education%20Programs",
+    "application_status": [
+      {
+        "id": "mobile-2",
+        "season": "Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "mobile-2",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "metadata": {
+      "title": "Naturalist in the Class: Botany | Mobile Education | East Bay Regional Park District",
+      "description": "Root yourself in our local plant species, examine the plant cycle, and use scientific tools to investigate further.",
+      "keywords": [
+        "K,1,2,3,4,5,6,7,8"
+      ],
+      "og_title": "Naturalist in the Class: Botany | Mobile Education",
+      "og_description": "Root yourself in our local plant species, examine the plant cycle, and use scientific tools to investigate further.",
+      "twitter_title": "Naturalist in the Class: Botany | Mobile Education",
+      "twitter_description": "Root yourself in our local plant species, examine the plant cycle, and use scientific tools to investigate further."
+    }
+  },
+  {
+    "id": "mobile-3",
+    "visitor_center": "Mobile Education",
+    "program_host": "Mobile Education",
+    "program_name": "Naturalist in the Class: Reptiles/Amphibians",
+    "city": "District-wide",
+    "grade": "K,1,2,3,4,5,6,7,8",
+    "learning_standards": "K-LS1-1, 1-LS1, 2-LS4-1, 3-LS3, 4-LS1-1, 5-ESS3-1, K-ESS2-2, 1-LS3-1, 3-LS4-2, 5-LS1-1, K-ESS3-1, 3-LS4-3, 3-LS4-4, K-2-ETS1-2, ESS2.E, ESS3.C, LS1.A, LS1.B, LS1.C, LS3.AMS-LS1-4, MS-LS4-2",
+    "fee": "no",
+    "duration": "30-45 Minutes",
+    "format": "In Classroom",
+    "limited_availability": "Not available Mondays",
+    "class_max": 4,
+    "max_students": "n/a",
+    "description": "Review the differences between reptiles, amphibians, and humans, and meet a real reptile",
+    "emoji": "🐍",
+    "link_suffix": "Mobile%20Education%20Programs",
+    "application_status": [
+      {
+        "id": "mobile-3",
+        "season": "Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "mobile-3",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "metadata": {
+      "title": "Naturalist in the Class: Reptiles/Amphibians | Mobile Education | East Bay Regional Park District",
+      "description": "Review the differences between reptiles, amphibians, and humans, and meet a real reptile",
+      "keywords": [
+        "K,1,2,3,4,5,6,7,8"
+      ],
+      "og_title": "Naturalist in the Class: Reptiles/Amphibians | Mobile Education",
+      "og_description": "Review the differences between reptiles, amphibians, and humans, and meet a real reptile",
+      "twitter_title": "Naturalist in the Class: Reptiles/Amphibians | Mobile Education",
+      "twitter_description": "Review the differences between reptiles, amphibians, and humans, and meet a real reptile"
+    }
+  },
+  {
+    "id": "mobile-4",
+    "visitor_center": "Mobile Education",
+    "program_host": "Mobile Education",
+    "program_name": "Naturalist in the Class: Skull Detectives",
+    "city": "District-wide",
+    "grade": "K,1,2,3,4,5,6,7,8",
+    "learning_standards": "K-ESS2-2, 1-LS1, 2-LS4-1, 3-LS2, 4-LS1, 5-ESS3-1, K-ESS3-3, 1-LS3-1, 3-LS3, 3-LS4-2, 3-LS4-3, 3-LS4-4, ESS3.C, LS1.A, LS1.B, LS3.A, MS-LS1-4, MS-LS4-2",
+    "fee": "no",
+    "duration": "30-45 Minutes",
+    "format": "In Classroom",
+    "limited_availability": "Not available Mondays",
+    "class_max": 4,
+    "max_students": "n/a",
+    "description": "\"Whose skull is this?\" Learn basic skull anatomy to learn about local mammals and discover their identity.",
+    "emoji": "🔎",
+    "link_suffix": "Mobile%20Education%20Programs",
+    "application_status": [
+      {
+        "id": "mobile-4",
+        "season": "Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "mobile-4",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "metadata": {
+      "title": "Naturalist in the Class: Skull Detectives | Mobile Education | East Bay Regional Park District",
+      "description": "\"Whose skull is this?\" Learn basic skull anatomy to learn about local mammals and discover their identity.",
+      "keywords": [
+        "K,1,2,3,4,5,6,7,8"
+      ],
+      "og_title": "Naturalist in the Class: Skull Detectives | Mobile Education",
+      "og_description": "\"Whose skull is this?\" Learn basic skull anatomy to learn about local mammals and discover their identity.",
+      "twitter_title": "Naturalist in the Class: Skull Detectives | Mobile Education",
+      "twitter_description": "\"Whose skull is this?\" Learn basic skull anatomy to learn about local mammals and discover their identity."
+    }
+  },
+  {
+    "id": "mobile-5",
+    "visitor_center": "Mobile Education",
+    "program_host": "Mobile Education",
+    "program_name": "Nature Walk",
+    "city": "District-wide",
+    "grade": "K,1,2,3,4,5,6,7,8,9,10,11,12",
+    "learning_standards": "Customizable to each program",
+    "fee": "no",
+    "duration": "1 Hour",
+    "format": "In Person",
+    "limited_availability": "Not available Mondays",
+    "class_max": 1,
+    "max_students": "n/a",
+    "description": "Experience the Regional Parks on a naturalist-led hike. The theme –plants, birds, or habitats– aligns with NGSS. Dependent on air quality",
+    "emoji": "🥾",
+    "link_suffix": "Mobile%20Education%20Programs",
+    "application_status": [
+      {
+        "id": "mobile-5",
+        "season": "Spring 2026",
+        "status": "closed",
+        "isOverride": false
+      },
+      {
+        "id": "mobile-5",
+        "season": "Summer 2026",
+        "status": "open",
+        "isOverride": false
+      }
+    ],
+    "accepting_applications": "Summer (June 15 to August 8)",
+    "metadata": {
+      "title": "Nature Walk | Mobile Education | East Bay Regional Park District",
+      "description": "Experience the Regional Parks on a naturalist-led hike. The theme –plants, birds, or habitats– aligns with NGSS. Dependent on air quality",
+      "keywords": [
+        "K,1,2,3,4,5,6,7,8,9,10,11,12"
+      ],
+      "og_title": "Nature Walk | Mobile Education",
+      "og_description": "Experience the Regional Parks on a naturalist-led hike. The theme –plants, birds, or habitats– aligns with NGSS. Dependent on air quality",
+      "twitter_title": "Nature Walk | Mobile Education",
+      "twitter_description": "Experience the Regional Parks on a naturalist-led hike. The theme –plants, birds, or habitats– aligns with NGSS. Dependent on air quality"
+    }
+  }
+]

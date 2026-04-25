@@ -1,0 +1,39 @@
+{
+  "id": "bigbreak-2",
+  "visitor_center": "Big Break",
+  "program_name": "Discover the Delta Watershed",
+  "city": "Oakley",
+  "grade": "3, 4, 5, 6, 7, 8",
+  "learning_standards": "3-PS2-2, 3, 3-LS4-3, 3-ESS3-1, 4-PS3-3, 4-ESS2-1, 5-LS2-1, MS-LS2-1, MS-ESS3-4",
+  "fee": "no",
+  "duration": "1.5hrs",
+  "format": "In Person",
+  "max_participants": "60",
+  "description": "Learn about water in one of California's most significant watersheds – the Delta. Our 1,200 square-foot Delta map and targeted field/learning activities clarify watershed concepts, processes, and applications to students' lives.",
+  "months_not_available": null,
+  "location": "Big Break",
+  "days_not_available": null,
+  "emoji": "🗺️ 💧 🌊",
+  "program_host": "Big Break Visitor Center",
+  "limited_availability": {
+    "days": [],
+    "months": []
+  },
+  "application_status": [
+    {
+      "season": "Spring 2025",
+      "status": "closed",
+      "isOverride": true
+    },
+    {
+      "season": "Summer 2025",
+      "status": "open",
+      "isOverride": true
+    },
+    {
+      "season": "Fall 2025",
+      "status": "closed",
+      "isOverride": true
+    }
+  ]
+} 
